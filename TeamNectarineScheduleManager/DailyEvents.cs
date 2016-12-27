@@ -15,6 +15,7 @@ namespace TeamNectarineScheduleManager
         holiday,
         sick
     }
+    Public class DailyEvents
     {
 
         private Events _event;
